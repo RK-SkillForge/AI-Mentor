@@ -190,6 +190,7 @@ The course is organized into 5 structured modules matching the repository folder
 | [**`02-Make-An-Online-Present/`**](02-Make-An-Online-Present/README.md) | **Lesson 2.1** | [`content-creating.skill`](02-Make-An-Online-Present/content-creating.skill) | [`PROMPT.md`](02-Make-An-Online-Present/PROMPT.md) | Turning learning into content, platform-specific strategies (LinkedIn, X, Instagram), video scripting, and habit building. |
 | [**`03-Make-Money-With-Your-Skills/`**](03-Make-Money-With-Your-Skills/README.md) | **Lesson 3.1** | [`make-money.skill`](03-Make-Money-With-Your-Skills/make-money.skill) | [`PROMPT.md`](03-Make-Money-With-Your-Skills/PROMPT.md) | Freelancing vs. business, customer acquisition, portfolio building, client trust, and step-by-step monetization. |
 | [**`04-Preparation-For-Job-Hunting/`**](04-Preparation-For-Job-Hunting/README.md) | **Lesson 4.1** | [`job-hunting.skill`](04-Preparation-For-Job-Hunting/job-hunting.skill) | [`PROMPT.md`](04-Preparation-For-Job-Hunting/PROMPT.md) | Role analysis, skill prioritization (`Must → Should → Later`), soft skills, interview prep, and job readiness scoring. |
+| [**`Professional_Diary/`**](Professional_Diary/README.md) | **Companion** | [`Professional_Diary.pdf`](Professional_Diary/Professional_Diary.pdf) | [`Professional_Diary.docx`](Professional_Diary/Professional_Diary.docx) | 97-day personal accountability journal, 14-pillar daily self-scoring audit, Pomodoro focus protocol, and habit tracking system. |
 
 ---
 
