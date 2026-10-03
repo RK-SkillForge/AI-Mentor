@@ -1,8 +1,19 @@
+# 🚀 AI Mentor
+
 <div align="center">
+
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Full%20Course%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLYhIgx7m8gDc&si=jDEREyM1Vu816DRt)
+[![Course Status](https://img.shields.io/badge/Status-Complete%20%26%20Free-success?style=for-the-badge)](https://youtube.com/playlist?list=PLYhIgx7m8gDc&si=jDEREyM1Vu816DRt)
+[![Platform](https://img.shields.io/badge/Platform-YouTube%20%7C%20GitHub-blue?style=for-the-badge)](https://youtube.com/playlist?list=PLYhIgx7m8gDc&si=jDEREyM1Vu816DRt)
+
+### 📺 Watch the Complete Course on YouTube
+**All course lessons and modules are uploaded and freely accessible!**  
+▶️ **[Click Here to Open the AI Mentor YouTube Playlist](https://youtube.com/playlist?list=PLYhIgx7m8gDc&si=jDEREyM1Vu816DRt)**
+
+</div>
 
 > [!TIP]
 > 📚 **Course Lessons & Video Curriculum:**
->
 > - **Lesson 0.1:** [Module 00 — Introduction to AI Mentor](00-Introduction/README.md) *(Orientation, Core Mission & Overcoming FOMO)*
 > - **Lesson 1.1:** [Module 01 — Find Your Way](01-Find-Your-Way/README.md) *(Interest → Passion → Career & Fundamentals vs. Trends)*
 > - **Lesson 2.1:** [Module 02 — Make An Online Presence](02-Make-An-Online-Present/README.md) *(Content Creation & Platform Growth)*
@@ -18,17 +29,17 @@
 
 **AI Mentor** helps learners explore a topic, understand its real-world value, identify industries and career roles, understand required skills and responsibilities, discover challenges and opportunities, and create a practical learning roadmap.
 
-| Feature / Metadata                | Details                                                                                                             |
-| :-------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
-| **Course Title**            | **AI Mentor**                                                                                                 |
-| **Subtitle / Tagline**      | *Interest → Passion → Career*                                                                                   |
-| **Instructor / Creator**    | **R.K. SkillForge**                                                                                           |
-| **Difficulty Level**        | **Beginner**                                                                                                  |
-| **Teaching Language**       | **English**                                                                                                   |
-| **Total Number of Lessons** | **5 Comprehensive Lessons** (5 Modules)                                                                       |
+| Feature / Metadata                | Details                                                                        |
+| :-------------------------------- | :----------------------------------------------------------------------------- |
+| **Course Title**            | **AI Mentor**                                                            |
+| **Subtitle / Tagline**      | *Interest → Passion → Career*                                              |
+| **Instructor / Creator**    | **R.K. SkillForge**                                                      |
+| **Difficulty Level**        | **Beginner**                                                             |
+| **Teaching Language**       | **English**                                                              |
+| **Total Number of Lessons** | **5 Comprehensive Lessons** (5 Modules)                                  |
 | **Course Pricing & Type**   | **Free (🆓 [YouTube Playlist](https://youtube.com/playlist?list=PLYhIgx7m8gDc&si=jDEREyM1Vu816DRt) / GitHub)** |
-| **Access Duration**         | **Lifetime Access**                                                                                           |
-| **1:1 Mentorship Included** | **No** (Framework provided to find & connect with real industry mentors)                                      |
+| **Access Duration**         | **Lifetime Access**                                                      |
+| **1:1 Mentorship Included** | **No** (Framework provided to find & connect with real industry mentors) |
 
 ---
 
@@ -95,20 +106,17 @@ flowchart LR
 ## ⚠️ Important Notes
 
 > [!IMPORTANT]
-> **AI is a tool, not an unquestionable source of truth.**
+> **AI is a tool, not an unquestionable source of truth.**  
 > Learners must develop independent critical thinking and double-check important information, especially when making career, technical, financial, business, or other high-stakes real-world decisions.
 
 ### 🤖 1. AI Can Make Mistakes
-
 - **Verify Before Acting**: AI models can provide incorrect, outdated, incomplete, or misleading information.
 - **Beware False Confidence**: Learners often trust an answer simply because it sounds confident, articulate, and immediate. Never mistake fluent language for guaranteed factual accuracy—always verify with reliable sources and primary documentation.
 
 ### 🤝 2. The Indispensable Value of a Real Mentor
-
 AI can explain concepts and provide structured roadmaps, but it **cannot replace the value of someone who has actually experienced the field**. Throughout this learning journey, seek out and connect with real human mentors who can guide you with lived experience.
 
 **What a real mentor provides that AI cannot:**
-
 - **Real-world experience**: Practical, hands-on domain wisdom forged in production and actual business settings.
 - **Personal feedback**: Tailored, direct feedback on your real work, code, portfolios, and communication.
 - **Context**: Deep understanding of team culture, organizational dynamics, and unspoken industry standards.
@@ -119,11 +127,9 @@ AI can explain concepts and provide structured roadmaps, but it **cannot replace
 - **Guidance based on situations that may not exist in a roadmap**: Navigating unique situations, negotiations, workplace relationships, and personal dilemmas.
 
 ### ⚡ 3. The Balanced Approach: Human + AI
-
 > [!NOTE]
-> **AI helps you learn faster. Real people help you understand reality.**
-> The most powerful approach is neither pure AI nor isolated learning. It is uniting them:
->
+> **AI helps you learn faster. Real people help you understand reality.**  
+> The most powerful approach is neither pure AI nor isolated learning. It is uniting them:  
 > $$
 > \mathbf{AI\ (Exploration\ \&\ Speed) + Fundamentals + Real\ Mentors\ (Wisdom\ \&\ Judgment) \longrightarrow Career\ Mastery}
 > $$
