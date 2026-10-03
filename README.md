@@ -2,20 +2,26 @@
 
 <div align="center">
 
-![AI Mentor Banner](Media/AI%20Mentor%20Thumbnail.png)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Full%20Course%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLYhIgx7m8gDc&si=jDEREyM1Vu816DRt)
+[![Course Status](https://img.shields.io/badge/Status-Complete%20%26%20Free-success?style=for-the-badge)](https://youtube.com/playlist?list=PLYhIgx7m8gDc&si=jDEREyM1Vu816DRt)
+[![Platform](https://img.shields.io/badge/Platform-YouTube%20%7C%20GitHub-blue?style=for-the-badge)](https://youtube.com/playlist?list=PLYhIgx7m8gDc&si=jDEREyM1Vu816DRt)
 
-### **From Interest to Passion, From Passion to Career**
-
-[![YouTube Preview](https://img.shields.io/badge/YouTube-Watch%20Course%20Preview-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
-[![Access Duration](https://img.shields.io/badge/Access-Lifetime-green?style=for-the-badge)](#-course-overview)
-[![Pricing](https://img.shields.io/badge/Course%20Type-100%25%20Free-blue?style=for-the-badge)](#-course-overview)
-[![Level](https://img.shields.io/badge/Difficulty-Beginner-orange?style=for-the-badge)](#-course-overview)
+### 📺 Watch the Complete Course on YouTube
+**All course lessons and modules are uploaded and freely accessible!**  
+▶️ **[Click Here to Open the AI Mentor YouTube Playlist](https://youtube.com/playlist?list=PLYhIgx7m8gDc&si=jDEREyM1Vu816DRt)**
 
 </div>
 
 > [!TIP]
-> 🎥 **Local Course Preview Video:** [Watch `Media/AI Mentor preview Video.mp4`](Media/AI%20Mentor%20preview%20Video.mp4)  
-> *(To link your public YouTube upload, replace `YOUR_YOUTUBE_VIDEO_ID` in the badge link above).*
+> 📚 **Course Lessons & Video Curriculum:**
+> - **Lesson 0.1:** [Module 00 — Introduction to AI Mentor](00-Introduction/README.md) *(Orientation, Core Mission & Overcoming FOMO)*
+> - **Lesson 1.1:** [Module 01 — Find Your Way](01-Find-Your-Way/README.md) *(Interest → Passion → Career & Fundamentals vs. Trends)*
+> - **Lesson 2.1:** [Module 02 — Make An Online Presence](02-Make-An-Online-Present/README.md) *(Content Creation & Platform Growth)*
+> - **Lesson 3.1:** [Module 03 — Make Money With Your Skills](03-Make-Money-With-Your-Skills/README.md) *(Freelancing & Monetization Frameworks)*
+> - **Lesson 4.1:** [Module 04 — Preparation For Job Hunting](04-Preparation-For-Job-Hunting/README.md) *(Role Analysis, Interview Prep & Scoring)*
+> - **Companion:** [Professional Diary](Professional_Diary/README.md) *(97-Day Personal Accountability & Growth System)*
+>
+> 🎥 *Local preview video is also available in [`Media/AI Mentor preview Video.mp4`](<Media/AI%20Mentor%20preview%20Video.mp4>).*
 
 ---
 
@@ -23,16 +29,16 @@
 
 **AI Mentor** helps learners explore a topic, understand its real-world value, identify industries and career roles, understand required skills and responsibilities, discover challenges and opportunities, and create a practical learning roadmap.
 
-| Feature / Metadata | Details |
-| :--- | :--- |
-| **Course Title** | **AI Mentor** |
-| **Subtitle / Tagline** | *Interest → Passion → Career* |
-| **Instructor / Creator** | **R.K. SkillForge** |
-| **Difficulty Level** | **Beginner** |
-| **Teaching Language** | **English / Hindi / Hinglish** |
-| **Total Number of Lessons** | **5 Comprehensive Lessons** (5 Modules) |
-| **Course Pricing & Type** | **Free (🆓 YouTube / GitHub)** |
-| **Access Duration** | **Lifetime Access** |
+| Feature / Metadata                | Details                                                                        |
+| :-------------------------------- | :----------------------------------------------------------------------------- |
+| **Course Title**            | **AI Mentor**                                                            |
+| **Subtitle / Tagline**      | *Interest → Passion → Career*                                              |
+| **Instructor / Creator**    | **R.K. SkillForge**                                                      |
+| **Difficulty Level**        | **Beginner**                                                             |
+| **Teaching Language**       | **English**                                                              |
+| **Total Number of Lessons** | **5 Comprehensive Lessons** (5 Modules)                                  |
+| **Course Pricing & Type**   | **Free (🆓 [YouTube Playlist](https://youtube.com/playlist?list=PLYhIgx7m8gDc&si=jDEREyM1Vu816DRt) / GitHub)** |
+| **Access Duration**         | **Lifetime Access**                                                      |
 | **1:1 Mentorship Included** | **No** (Framework provided to find & connect with real industry mentors) |
 
 ---
@@ -74,6 +80,7 @@ flowchart LR
 ## 📌 Requirements & Prerequisites
 
 ### Requirements
+
 - **Interest** in learning and exploring new things.
 - **Basic computer and internet knowledge**.
 - **Willingness** to research, learn, practice, and take action.
@@ -82,6 +89,7 @@ flowchart LR
 - **Willingness to learn** from both AI and real people with relevant experience.
 
 ### Prerequisites
+
 - **No advanced technical knowledge is required.**
 - You can start with any:
   - **Topic**
@@ -93,9 +101,38 @@ flowchart LR
   - **Learning goal**
 - **AI Mentor** can help you explore it from the beginning.
 
+---
+
+## ⚠️ Important Notes
+
 > [!IMPORTANT]
 > **AI is a tool, not an unquestionable source of truth.**  
-> Learners should develop independent thinking and double-check important information, especially when making career, technical, financial, business, or other real-world decisions.
+> Learners must develop independent critical thinking and double-check important information, especially when making career, technical, financial, business, or other high-stakes real-world decisions.
+
+### 🤖 1. AI Can Make Mistakes
+- **Verify Before Acting**: AI models can provide incorrect, outdated, incomplete, or misleading information.
+- **Beware False Confidence**: Learners often trust an answer simply because it sounds confident, articulate, and immediate. Never mistake fluent language for guaranteed factual accuracy—always verify with reliable sources and primary documentation.
+
+### 🤝 2. The Indispensable Value of a Real Mentor
+AI can explain concepts and provide structured roadmaps, but it **cannot replace the value of someone who has actually experienced the field**. Throughout this learning journey, seek out and connect with real human mentors who can guide you with lived experience.
+
+**What a real mentor provides that AI cannot:**
+- **Real-world experience**: Practical, hands-on domain wisdom forged in production and actual business settings.
+- **Personal feedback**: Tailored, direct feedback on your real work, code, portfolios, and communication.
+- **Context**: Deep understanding of team culture, organizational dynamics, and unspoken industry standards.
+- **Professional judgment**: Clear understanding of *why* specific trade-offs are made in unpredictable scenarios.
+- **Practical advice**: Realistic guidance on navigating complex blockers that algorithms cannot anticipate.
+- **Career perspective**: Long-term strategic insight into market realities and sustainable professional paths.
+- **Lessons from mistakes and experience**: Priceless lessons learned from failure, setbacks, and real-world stakes.
+- **Guidance based on situations that may not exist in a roadmap**: Navigating unique situations, negotiations, workplace relationships, and personal dilemmas.
+
+### ⚡ 3. The Balanced Approach: Human + AI
+> [!NOTE]
+> **AI helps you learn faster. Real people help you understand reality.**  
+> The most powerful approach is neither pure AI nor isolated learning. It is uniting them:  
+> $$
+> \mathbf{AI\ (Exploration\ \&\ Speed) + Fundamentals + Real\ Mentors\ (Wisdom\ \&\ Judgment) \longrightarrow Career\ Mastery}
+> $$
 
 ---
 
@@ -103,16 +140,17 @@ flowchart LR
 
 ### ❌ The Problem
 
-| Problem Area | What Learners Experience |
-| :--- | :--- |
-| **Lack of Knowledge** | People may be interested in a field without understanding its real-world applications, industries, roles, skills, challenges, or opportunities. |
-| **Too Many Resources** | Thousands of courses, videos, tools, roadmaps, and communities can make it difficult to identify what is actually worth learning. |
-| **FOMO & Constant Change** | New technologies and trends appear continuously, creating pressure to learn everything and making it difficult to distinguish lasting fundamentals from temporary trends. |
-| **Roadmaps Without Real-World Context** | Many roadmaps explain what to learn, but may not explain enough about real responsibilities, challenges, expectations, or opportunities. |
-| **Lack of Human Mentorship** | AI can explain concepts and provide guidance, but it cannot replace the value of someone who has actually experienced the field. |
-| **AI Can Make Mistakes** | AI can provide incorrect, outdated, incomplete, or misleading information. Learners may trust an answer simply because it sounds confident: *“How do I know whether the information I received is actually correct?”* |
+| Problem Area                                  | What Learners Experience                                                                                                                                                                                                 |
+| :-------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lack of Knowledge**                   | People may be interested in a field without understanding its real-world applications, industries, roles, skills, challenges, or opportunities.                                                                          |
+| **Too Many Resources**                  | Thousands of courses, videos, tools, roadmaps, and communities can make it difficult to identify what is actually worth learning.                                                                                        |
+| **FOMO & Constant Change**              | New technologies and trends appear continuously, creating pressure to learn everything and making it difficult to distinguish lasting fundamentals from temporary trends.                                                |
+| **Roadmaps Without Real-World Context** | Many roadmaps explain what to learn, but may not explain enough about real responsibilities, challenges, expectations, or opportunities.                                                                                 |
+| **Lack of Human Mentorship**            | AI can explain concepts and provide guidance, but it cannot replace the value of someone who has actually experienced the field.                                                                                         |
+| **AI Can Make Mistakes**                | AI can provide incorrect, outdated, incomplete, or misleading information. Learners may trust an answer simply because it sounds confident:*“How do I know whether the information I received is actually correct?”* |
 
 #### What a Real Human Mentor Provides:
+
 - **Real-world experience**
 - **Personal feedback**
 - **Context**
@@ -124,7 +162,7 @@ flowchart LR
 
 ---
 
-###  The SkillForge Solution
+### The SkillForge Solution
 
 AI Mentor brings all the critical pieces together into an actionable, cohesive framework:
 
@@ -149,8 +187,10 @@ flowchart TD
 6. **Roadmap**: Create a practical path showing what to learn, practice, build, and apply.
 7. **Resources**: Find relevant free resources and suitable paid courses.
 8. **AI With Verification**: Use AI to accelerate research, learning, practice, and repetitive work—but do not blindly trust AI.
-   - AI Mentor encourages learners to follow:  
-     $$\text{Ask} \longrightarrow \text{Research} \longrightarrow \text{Verify} \longrightarrow \text{Compare} \longrightarrow \text{Understand} \longrightarrow \text{Decide}$$
+   - AI Mentor encourages learners to follow:
+     $$
+     \text{Ask} \longrightarrow \text{Research} \longrightarrow \text{Verify} \longrightarrow \text{Compare} \longrightarrow \text{Understand} \longrightarrow \text{Decide}
+     $$
    - Important information should be double-checked using reliable sources and, when appropriate, experienced professionals.
 9. **Real Human Mentorship**: Helps learners understand how to find and connect with real people who have experience in the chosen field. The goal is not simply to find a mentor, but to learn from people who have actually faced the challenges, made decisions, built skills, and worked in the real world.
 10. **Opportunities**: Connect learning and skills with real-world career, industry, freelance, business, and other opportunities.
@@ -160,8 +200,8 @@ flowchart TD
 ### 🤝 Human + AI: The AI Mentor Philosophy
 
 > [!NOTE]
-> **AI can help you learn faster. Real people can help you understand reality.**  
-> The strongest approach is not AI vs. Mentor. It is:  
+> **AI can help you learn faster. Real people can help you understand reality.**
+> The strongest approach is not AI vs. Mentor. It is:
 > **AI + Fundamentals + Real People + Practical Experience**
 
 ```
@@ -175,22 +215,24 @@ Take action.
 Keep improving.
 ```
 
-$$\mathbf{Interest \longrightarrow Passion \longrightarrow Career}$$
+$$
+\mathbf{Interest \longrightarrow Passion \longrightarrow Career}
+$$
 
 ---
 
 ## 🗂️ Course Curriculum & Directory Structure
 
-The course is organized into 5 structured modules matching the repository folders. Each module includes a comprehensive curriculum guide, practical frameworks, and production-ready Claude.ai `.skill` packages and prompts:
+The course is organized into 5 structured modules matching the repository folders. All lessons are uploaded and freely accessible on the **[YouTube Course Playlist](https://youtube.com/playlist?list=PLYhIgx7m8gDc&si=jDEREyM1Vu816DRt)**. Each module includes a comprehensive curriculum guide, practical frameworks, and production-ready Claude.ai `.skill` packages and prompts:
 
-| Module / Folder | Lesson | Skill Asset | Prompt Guide | Overview |
-| :--- | :--- | :--- | :--- | :--- |
-| [**`00-Introduction/`**](00-Introduction/README.md) | **Lesson 0.1** | — | — | Course orientation, core mission, problem breakdown, and overcoming FOMO. |
-| [**`01-Find-Your-Way/`**](01-Find-Your-Way/README.md) | **Lesson 1.1** | [`ai-mentor.skill`](01-Find-Your-Way/ai-mentor.skill) | [`PROMPT.md`](01-Find-Your-Way/PROMPT.md) | Moving from Interest to Career, fundamentals vs. trends, research, roadmaps, and connecting with real mentors. |
-| [**`02-Make-An-Online-Present/`**](02-Make-An-Online-Present/README.md) | **Lesson 2.1** | [`content-creating.skill`](02-Make-An-Online-Present/content-creating.skill) | [`PROMPT.md`](02-Make-An-Online-Present/PROMPT.md) | Turning learning into content, platform-specific strategies (LinkedIn, X, Instagram), video scripting, and habit building. |
-| [**`03-Make-Money-With-Your-Skills/`**](03-Make-Money-With-Your-Skills/README.md) | **Lesson 3.1** | [`make-money.skill`](03-Make-Money-With-Your-Skills/make-money.skill) | [`PROMPT.md`](03-Make-Money-With-Your-Skills/PROMPT.md) | Freelancing vs. business, customer acquisition, portfolio building, client trust, and step-by-step monetization. |
-| [**`04-Preparation-For-Job-Hunting/`**](04-Preparation-For-Job-Hunting/README.md) | **Lesson 4.1** | [`job-hunting.skill`](04-Preparation-For-Job-Hunting/job-hunting.skill) | [`PROMPT.md`](04-Preparation-For-Job-Hunting/PROMPT.md) | Role analysis, skill prioritization (`Must → Should → Later`), soft skills, interview prep, and job readiness scoring. |
-| [**`Professional_Diary/`**](Professional_Diary/README.md) | **Companion** | [`Professional_Diary.pdf`](Professional_Diary/Professional_Diary.pdf) | [`Professional_Diary.docx`](Professional_Diary/Professional_Diary.docx) | 97-day personal accountability journal, 14-pillar daily self-scoring audit, Pomodoro focus protocol, and habit tracking system. |
+| Module / Folder                                                                          | Lesson               | Skill Asset                                                                   | Prompt Guide                                                             | Overview                                                                                                                        |
+| :--------------------------------------------------------------------------------------- | :------------------- | :---------------------------------------------------------------------------- | :----------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
+| [**`00-Introduction/`**](00-Introduction/README.md)                               | **Lesson 0.1** | —                                                                            | —                                                                       | Course orientation, core mission, problem breakdown, and overcoming FOMO.                                                       |
+| [**`01-Find-Your-Way/`**](01-Find-Your-Way/README.md)                             | **Lesson 1.1** | [`ai-mentor.skill`](01-Find-Your-Way/ai-mentor.skill)                        | [`PROMPT.md`](01-Find-Your-Way/PROMPT.md)                               | Moving from Interest to Career, fundamentals vs. trends, research, roadmaps, and connecting with real mentors.                  |
+| [**`02-Make-An-Online-Present/`**](02-Make-An-Online-Present/README.md)           | **Lesson 2.1** | [`content-creating.skill`](02-Make-An-Online-Present/content-creating.skill) | [`PROMPT.md`](02-Make-An-Online-Present/PROMPT.md)                      | Turning learning into content, platform-specific strategies (LinkedIn, X, Instagram), video scripting, and habit building.      |
+| [**`03-Make-Money-With-Your-Skills/`**](03-Make-Money-With-Your-Skills/README.md) | **Lesson 3.1** | [`make-money.skill`](03-Make-Money-With-Your-Skills/make-money.skill)        | [`PROMPT.md`](03-Make-Money-With-Your-Skills/PROMPT.md)                 | Freelancing vs. business, customer acquisition, portfolio building, client trust, and step-by-step monetization.                |
+| [**`04-Preparation-For-Job-Hunting/`**](04-Preparation-For-Job-Hunting/README.md) | **Lesson 4.1** | [`job-hunting.skill`](04-Preparation-For-Job-Hunting/job-hunting.skill)      | [`PROMPT.md`](04-Preparation-For-Job-Hunting/PROMPT.md)                 | Role analysis, skill prioritization (`Must → Should → Later`), soft skills, interview prep, and job readiness scoring.      |
+| [**`Professional_Diary/`**](Professional_Diary/README.md)                         | **Companion**  | [`Professional_Diary.pdf`](Professional_Diary/Professional_Diary.pdf)        | [`Professional_Diary.docx`](Professional_Diary/Professional_Diary.docx) | 97-day personal accountability journal, 14-pillar daily self-scoring audit, Pomodoro focus protocol, and habit tracking system. |
 
 ---
 
@@ -210,6 +252,7 @@ flowchart TD
 ```
 
 ### Method 1: Using with Claude.ai Projects (Recommended for Claude Pro/Team)
+
 1. **Create a Project**: Go to [Claude.ai](https://claude.ai) and click on **Projects** → **Create Project** (e.g., name it `"AI Mentor"`).
 2. **Upload Knowledge Files**:
    - Rename any `.skill` file (e.g., `ai-mentor.skill`) to `.zip` and extract its contents (`SKILL.md` and `references/`).
@@ -220,12 +263,14 @@ flowchart TD
 4. **Interact**: Start a chat inside your project. Claude will now operate strictly under the skill guidelines, scoring ideas honestly out of 10, preventing hallucinations, and prioritizing fundamentals!
 
 ### Method 2: Using in Any Claude Chat (Free / Direct Use)
+
 1. Open a new chat at [Claude.ai](https://claude.ai).
 2. Open the [`PROMPT.md`](01-Find-Your-Way/PROMPT.md) file of the desired module.
 3. Copy the system prompt and paste it into your chat as your initial instruction.
 4. Provide your topic, skill, portfolio, or career goal!
 
 ### Method 3: Using in Antigravity / Claude Code CLI
+
 1. Unzip the `.skill` file into your local skills directory:
    ```bash
    # Example: Extracting ai-mentor.skill
@@ -237,19 +282,19 @@ flowchart TD
 
 ## ❓ Frequently Asked Questions (FAQs)
 
-| Question | Answer |
-| :--- | :--- |
-| **Who is AI Mentor for?** | Anyone who wants to explore a new topic, skill, technology, role, or career opportunity. |
-| **Do I need technical knowledge?** | No. Basic computer and internet knowledge is enough to start. |
-| **What can I give to AI Mentor?** | You can provide a topic, title, skill, technology, role, career, or idea you want to explore. |
-| **Does AI Mentor provide a roadmap?** | Yes. It helps create a structured learning roadmap based on the selected direction. |
-| **Does it provide free resources?** | Yes. It can identify relevant free learning resources. |
-| **Does it provide paid courses?** | Yes. Suitable paid courses and resources can also be recommended. |
-| **Can it explain job roles?** | Yes. It can explain roles, responsibilities, required skills, challenges, and opportunities. |
-| **Does it focus only on trending technologies?** | No. AI Mentor focuses on fundamentals while also helping learners understand changing tools and trends. |
-| **Can I use AI while learning?** | Yes. AI can be used for research, learning, practice, and repetitive tasks without becoming dependent on it. |
-| **Does AI Mentor replace a real mentor?** | No. It provides guidance, while a real mentor can provide personal experience, feedback, and perspective. |
-| **What is the main goal?** | To help learners understand what to learn, where to focus, and how to move toward opportunities. |
+| Question                                               | Answer                                                                                                       |
+| :----------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| **Who is AI Mentor for?**                        | Anyone who wants to explore a new topic, skill, technology, role, or career opportunity.                     |
+| **Do I need technical knowledge?**               | No. Basic computer and internet knowledge is enough to start.                                                |
+| **What can I give to AI Mentor?**                | You can provide a topic, title, skill, technology, role, career, or idea you want to explore.                |
+| **Does AI Mentor provide a roadmap?**            | Yes. It helps create a structured learning roadmap based on the selected direction.                          |
+| **Does it provide free resources?**              | Yes. It can identify relevant free learning resources.                                                       |
+| **Does it provide paid courses?**                | Yes. Suitable paid courses and resources can also be recommended.                                            |
+| **Can it explain job roles?**                    | Yes. It can explain roles, responsibilities, required skills, challenges, and opportunities.                 |
+| **Does it focus only on trending technologies?** | No. AI Mentor focuses on fundamentals while also helping learners understand changing tools and trends.      |
+| **Can I use AI while learning?**                 | Yes. AI can be used for research, learning, practice, and repetitive tasks without becoming dependent on it. |
+| **Does AI Mentor replace a real mentor?**        | No. It provides guidance, while a real mentor can provide personal experience, feedback, and perspective.    |
+| **What is the main goal?**                       | To help learners understand what to learn, where to focus, and how to move toward opportunities.             |
 
 ### 🔍 Critical Verification Q&A
 
@@ -264,6 +309,7 @@ flowchart TD
 We believe in open, accessible education for everyone.
 
 If you found a resource that helped you, identified an outdated recommendation, or want to contribute an improved explanation:
+
 1. Fork this repository.
 2. Create your feature branch (`git checkout -b feature/improvement`).
 3. Commit your changes (`git commit -m 'Add valuable resource'`).
@@ -274,5 +320,5 @@ If you found a resource that helped you, identified an outdated recommendation, 
 
 ## 📄 License & Credits
 
-Created with ❤️ by **[R.K. SkillForge](https://github.com/RK-SkillForge)**.  
+Created with ❤️ by **[R.K. SkillForge](https://github.com/RK-SkillForge)**.
 Dedicated to helping learners transition from **Interest → Passion → Career**.
