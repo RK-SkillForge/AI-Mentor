@@ -2,6 +2,9 @@
 Media/
 media/
 
+# Archived / legacy raw assets
+old/
+
 # Operating System files
 Thumbs.db
 ehthumbs.db
