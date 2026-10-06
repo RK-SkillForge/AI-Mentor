@@ -173,6 +173,6 @@ This module includes:
 
 ## 🧭 Navigation
 
-- ⬅️ **Previous Module:** [**`01-Find-Your-Way` (Lesson 1.1 — Find Your Way)**](../01-Find-Your-Way/README.md)
-- ➡️ **Next Module:** [**`03-Make-Money-With-Your-Skills` (Lesson 3.1 — Make Money with Your Skills)**](../03-Make-Money-With-Your-Skills/README.md)
+- ⬅️ **Previous Module:** [**`2.1-Find-Your-Way` (Lesson 2.1 — Find Your Way)**](../2.1-Find-Your-Way/README.md)
+- ➡️ **Next Module:** [**`4.1-Make-Money-With-Your-Skills` (Lesson 4.1 — Make Money With Your Skills)**](../4.1-Make-Money-With-Your-Skills/README.md)
 - 🏠 **Master Curriculum:** [**Root README**](../README.md)

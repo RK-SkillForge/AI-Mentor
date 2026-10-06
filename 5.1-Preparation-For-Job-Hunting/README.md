@@ -165,5 +165,5 @@ This module includes:
 
 ## 🧭 Navigation
 
-- ⬅️ **Previous Module:** [**`03-Make-Money-With-Your-Skills` (Lesson 3.1 — Make Money with Your Skills)**](../03-Make-Money-With-Your-Skills/README.md)
+- ⬅️ **Previous Module:** [**`4.1-Make-Money-With-Your-Skills` (Lesson 4.1 — Make Money With Your Skills)**](../4.1-Make-Money-With-Your-Skills/README.md)
 - 🏠 **Master Curriculum:** [**Root README**](../README.md)

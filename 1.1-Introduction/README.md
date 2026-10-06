@@ -65,9 +65,8 @@ Keep improving.
 
 ---
 
-## 🧭 Course Progression & Next Steps
+## 🧭 Navigation
 
-Now that you understand the foundational principles, proceed to **Module 01** to discover how to analyze any skill, build a custom roadmap, and deploy your first AI Skill Jar:
-
-- ➡️ **Next Module:** [**`01-Find-Your-Way` (Lesson 1.1 — Find Your Way)**](../01-Find-Your-Way/README.md)
-- 🏠 **Return to Master Curriculum:** [**Root README**](../README.md)
+- ➡️ **Next Module:** [**`1.2-Professional_Diary` (Lesson 1.2 — Professional Diary)**](../1.2-Professional_Diary/README.md)
+- ➡️ **Core Next Module:** [**`2.1-Find-Your-Way` (Lesson 2.1 — Find Your Way)**](../2.1-Find-Your-Way/README.md)
+- 🏠 **Master Curriculum:** [**Root README**](../README.md)

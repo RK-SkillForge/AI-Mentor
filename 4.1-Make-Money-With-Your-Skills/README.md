@@ -172,6 +172,6 @@ This module includes:
 
 ## 🧭 Navigation
 
-- ⬅️ **Previous Module:** [**`02-Make-An-Online-Present` (Lesson 2.1 — Make an Online Presence)**](../02-Make-An-Online-Present/README.md)
-- ➡️ **Next Module:** [**`04-Preparation-For-Job-Hunting` (Lesson 4.1 — Preparation For Job Hunting)**](../04-Preparation-For-Job-Hunting/README.md)
+- ⬅️ **Previous Module:** [**`3.1-Make-An-Online-Present` (Lesson 3.1 — Make an Online Presence)**](../3.1-Make-An-Online-Present/README.md)
+- ➡️ **Next Module:** [**`5.1-Preparation-For-Job-Hunting` (Lesson 5.1 — Preparation For Job Hunting)**](../5.1-Preparation-For-Job-Hunting/README.md)
 - 🏠 **Master Curriculum:** [**Root README**](../README.md)

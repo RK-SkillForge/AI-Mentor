@@ -193,6 +193,6 @@ This module contains:
 
 ## 🧭 Navigation
 
-- ⬅️ **Previous Module:** [**`00-Introduction` (Lesson 0.1 — What is AI Mentor?)**](../00-Introduction/README.md)
-- ➡️ **Next Module:** [**`02-Make-An-Online-Present` (Lesson 2.1 — Make an Online Presence)**](../02-Make-An-Online-Present/README.md)
+- ⬅️ **Previous Module:** [**`1.1-Introduction` (Lesson 1.1 — What is AI Mentor?)**](../1.1-Introduction/README.md) *(Companion: [`1.2-Professional_Diary`](../1.2-Professional_Diary/README.md))*
+- ➡️ **Next Module:** [**`3.1-Make-An-Online-Present` (Lesson 3.1 — Make an Online Presence)**](../3.1-Make-An-Online-Present/README.md)
 - 🏠 **Master Curriculum:** [**Root README**](../README.md)

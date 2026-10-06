@@ -1,2 +1,10 @@
-old/
-.vscode/
+# Media folder (videos, thumbnails, and preview assets)
+Media/
+media/
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store

@@ -1,25 +1,14 @@
 # 🚀 AI Mentor
 
-<div align="center">
-
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Full%20Course%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLYhIgx7m8gDc&si=jDEREyM1Vu816DRt)
-[![Course Status](https://img.shields.io/badge/Status-Complete%20%26%20Free-success?style=for-the-badge)](https://youtube.com/playlist?list=PLYhIgx7m8gDc&si=jDEREyM1Vu816DRt)
-[![Platform](https://img.shields.io/badge/Platform-YouTube%20%7C%20GitHub-blue?style=for-the-badge)](https://youtube.com/playlist?list=PLYhIgx7m8gDc&si=jDEREyM1Vu816DRt)
-
-### 📺 Watch the Complete Course on YouTube
-**All course lessons and modules are uploaded and freely accessible!**  
-▶️ **[Click Here to Open the AI Mentor YouTube Playlist](https://youtube.com/playlist?list=PLYhIgx7m8gDc&si=jDEREyM1Vu816DRt)**
-
-</div>
-
 > [!TIP]
 > 📚 **Course Lessons & Video Curriculum:**
-> - **Lesson 0.1:** [Module 00 — Introduction to AI Mentor](00-Introduction/README.md) *(Orientation, Core Mission & Overcoming FOMO)*
-> - **Lesson 1.1:** [Module 01 — Find Your Way](01-Find-Your-Way/README.md) *(Interest → Passion → Career & Fundamentals vs. Trends)*
-> - **Lesson 2.1:** [Module 02 — Make An Online Presence](02-Make-An-Online-Present/README.md) *(Content Creation & Platform Growth)*
-> - **Lesson 3.1:** [Module 03 — Make Money With Your Skills](03-Make-Money-With-Your-Skills/README.md) *(Freelancing & Monetization Frameworks)*
-> - **Lesson 4.1:** [Module 04 — Preparation For Job Hunting](04-Preparation-For-Job-Hunting/README.md) *(Role Analysis, Interview Prep & Scoring)*
-> - **Companion:** [Professional Diary](Professional_Diary/README.md) *(97-Day Personal Accountability & Growth System)*
+>
+> - **Lesson 1.1:** [Module 1.1 — Introduction to AI Mentor](1.1-Introduction/README.md) *(Orientation, Core Mission & Overcoming FOMO)*
+> - **Lesson 1.2:** [Module 1.2 — Professional Diary](1.2-Professional_Diary/README.md) *(97-Day Personal Accountability & Growth System)*
+> - **Lesson 2.1:** [Module 2.1 — Find Your Way](2.1-Find-Your-Way/README.md) *(Interest → Passion → Career & Fundamentals vs. Trends)*
+> - **Lesson 3.1:** [Module 3.1 — Make An Online Presence](3.1-Make-An-Online-Present/README.md) *(Content Creation & Platform Growth)*
+> - **Lesson 4.1:** [Module 4.1 — Make Money With Your Skills](4.1-Make-Money-With-Your-Skills/README.md) *(Freelancing & Monetization Frameworks)*
+> - **Lesson 5.1:** [Module 5.1 — Preparation For Job Hunting](5.1-Preparation-For-Job-Hunting/README.md) *(Role Analysis, Interview Prep & Scoring)*
 >
 > 🎥 *Local preview video is also available in [`Media/AI Mentor preview Video.mp4`](<Media/AI%20Mentor%20preview%20Video.mp4>).*
 
@@ -29,17 +18,17 @@
 
 **AI Mentor** helps learners explore a topic, understand its real-world value, identify industries and career roles, understand required skills and responsibilities, discover challenges and opportunities, and create a practical learning roadmap.
 
-| Feature / Metadata                | Details                                                                        |
-| :-------------------------------- | :----------------------------------------------------------------------------- |
-| **Course Title**            | **AI Mentor**                                                            |
-| **Subtitle / Tagline**      | *Interest → Passion → Career*                                              |
-| **Instructor / Creator**    | **R.K. SkillForge**                                                      |
-| **Difficulty Level**        | **Beginner**                                                             |
-| **Teaching Language**       | **English**                                                              |
-| **Total Number of Lessons** | **5 Comprehensive Lessons** (5 Modules)                                  |
-| **Course Pricing & Type**   | **Free (🆓 [YouTube Playlist](https://youtube.com/playlist?list=PLYhIgx7m8gDc&si=jDEREyM1Vu816DRt) / GitHub)** |
-| **Access Duration**         | **Lifetime Access**                                                      |
-| **1:1 Mentorship Included** | **No** (Framework provided to find & connect with real industry mentors) |
+| Feature / Metadata                | Details                                                                                                             |
+| :-------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| **Course Title**            | **AI Mentor**                                                                                                 |
+| **Subtitle / Tagline**      | *Interest → Passion → Career*                                                                                   |
+| **Instructor / Creator**    | **R.K. SkillForge**                                                                                           |
+| **Difficulty Level**        | **Beginner**                                                                                                  |
+| **Teaching Language**       | **English**                                                                                                   |
+| **Total Number of Lessons** | **5 Comprehensive Lessons** (5 Modules)                                                                       |
+| **Course Pricing & Type**   | **Free (🆓 [YouTube Playlist](https://youtube.com/playlist?list=PLUJ--ohHkGws&si=oiVMeX3flDi0kCwW) / GitHub)** |
+| **Access Duration**         | **Lifetime Access**                                                                                           |
+| **1:1 Mentorship Included** | **No** (Framework provided to find & connect with real industry mentors)                                      |
 
 ---
 
@@ -106,17 +95,20 @@ flowchart LR
 ## ⚠️ Important Notes
 
 > [!IMPORTANT]
-> **AI is a tool, not an unquestionable source of truth.**  
+> **AI is a tool, not an unquestionable source of truth.**
 > Learners must develop independent critical thinking and double-check important information, especially when making career, technical, financial, business, or other high-stakes real-world decisions.
 
 ### 🤖 1. AI Can Make Mistakes
+
 - **Verify Before Acting**: AI models can provide incorrect, outdated, incomplete, or misleading information.
 - **Beware False Confidence**: Learners often trust an answer simply because it sounds confident, articulate, and immediate. Never mistake fluent language for guaranteed factual accuracy—always verify with reliable sources and primary documentation.
 
 ### 🤝 2. The Indispensable Value of a Real Mentor
+
 AI can explain concepts and provide structured roadmaps, but it **cannot replace the value of someone who has actually experienced the field**. Throughout this learning journey, seek out and connect with real human mentors who can guide you with lived experience.
 
 **What a real mentor provides that AI cannot:**
+
 - **Real-world experience**: Practical, hands-on domain wisdom forged in production and actual business settings.
 - **Personal feedback**: Tailored, direct feedback on your real work, code, portfolios, and communication.
 - **Context**: Deep understanding of team culture, organizational dynamics, and unspoken industry standards.
@@ -127,9 +119,11 @@ AI can explain concepts and provide structured roadmaps, but it **cannot replace
 - **Guidance based on situations that may not exist in a roadmap**: Navigating unique situations, negotiations, workplace relationships, and personal dilemmas.
 
 ### ⚡ 3. The Balanced Approach: Human + AI
+
 > [!NOTE]
-> **AI helps you learn faster. Real people help you understand reality.**  
-> The most powerful approach is neither pure AI nor isolated learning. It is uniting them:  
+> **AI helps you learn faster. Real people help you understand reality.**
+> The most powerful approach is neither pure AI nor isolated learning. It is uniting them:
+>
 > $$
 > \mathbf{AI\ (Exploration\ \&\ Speed) + Fundamentals + Real\ Mentors\ (Wisdom\ \&\ Judgment) \longrightarrow Career\ Mastery}
 > $$
@@ -223,16 +217,16 @@ $$
 
 ## 🗂️ Course Curriculum & Directory Structure
 
-The course is organized into 5 structured modules matching the repository folders. All lessons are uploaded and freely accessible on the **[YouTube Course Playlist](https://youtube.com/playlist?list=PLYhIgx7m8gDc&si=jDEREyM1Vu816DRt)**. Each module includes a comprehensive curriculum guide, practical frameworks, and production-ready Claude.ai `.skill` packages and prompts:
+The course is organized into 5 structured modules matching the repository folders. All lessons are uploaded and freely accessible on the **[YouTube Course Playlist](https://youtube.com/playlist?list=PLUJ--ohHkGws&si=oiVMeX3flDi0kCwW)**. Each module includes a comprehensive curriculum guide, practical frameworks, and production-ready Claude.ai `.skill` packages and prompts:
 
 | Module / Folder                                                                          | Lesson               | Skill Asset                                                                   | Prompt Guide                                                             | Overview                                                                                                                        |
 | :--------------------------------------------------------------------------------------- | :------------------- | :---------------------------------------------------------------------------- | :----------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
-| [**`00-Introduction/`**](00-Introduction/README.md)                               | **Lesson 0.1** | —                                                                            | —                                                                       | Course orientation, core mission, problem breakdown, and overcoming FOMO.                                                       |
-| [**`01-Find-Your-Way/`**](01-Find-Your-Way/README.md)                             | **Lesson 1.1** | [`ai-mentor.skill`](01-Find-Your-Way/ai-mentor.skill)                        | [`PROMPT.md`](01-Find-Your-Way/PROMPT.md)                               | Moving from Interest to Career, fundamentals vs. trends, research, roadmaps, and connecting with real mentors.                  |
-| [**`02-Make-An-Online-Present/`**](02-Make-An-Online-Present/README.md)           | **Lesson 2.1** | [`content-creating.skill`](02-Make-An-Online-Present/content-creating.skill) | [`PROMPT.md`](02-Make-An-Online-Present/PROMPT.md)                      | Turning learning into content, platform-specific strategies (LinkedIn, X, Instagram), video scripting, and habit building.      |
-| [**`03-Make-Money-With-Your-Skills/`**](03-Make-Money-With-Your-Skills/README.md) | **Lesson 3.1** | [`make-money.skill`](03-Make-Money-With-Your-Skills/make-money.skill)        | [`PROMPT.md`](03-Make-Money-With-Your-Skills/PROMPT.md)                 | Freelancing vs. business, customer acquisition, portfolio building, client trust, and step-by-step monetization.                |
-| [**`04-Preparation-For-Job-Hunting/`**](04-Preparation-For-Job-Hunting/README.md) | **Lesson 4.1** | [`job-hunting.skill`](04-Preparation-For-Job-Hunting/job-hunting.skill)      | [`PROMPT.md`](04-Preparation-For-Job-Hunting/PROMPT.md)                 | Role analysis, skill prioritization (`Must → Should → Later`), soft skills, interview prep, and job readiness scoring.      |
-| [**`Professional_Diary/`**](Professional_Diary/README.md)                         | **Companion**  | [`Professional_Diary.pdf`](Professional_Diary/Professional_Diary.pdf)        | [`Professional_Diary.docx`](Professional_Diary/Professional_Diary.docx) | 97-day personal accountability journal, 14-pillar daily self-scoring audit, Pomodoro focus protocol, and habit tracking system. |
+| [**`1.1-Introduction/`**](1.1-Introduction/README.md)                               | **Lesson 1.1** | —                                                                            | —                                                                       | Course orientation, core mission, problem breakdown, and overcoming FOMO.                                                       |
+| [**`1.2-Professional_Diary/`**](1.2-Professional_Diary/README.md)                         | **Lesson 1.2**  | [`Professional_Diary.pdf`](1.2-Professional_Diary/Professional_Diary.pdf)        | [`Professional_Diary.docx`](1.2-Professional_Diary/Professional_Diary.docx) | 97-day personal accountability journal, 14-pillar daily self-scoring audit, Pomodoro focus protocol, and habit tracking system. |
+| [**`2.1-Find-Your-Way/`**](2.1-Find-Your-Way/README.md)                             | **Lesson 2.1** | [`ai-mentor.skill`](2.1-Find-Your-Way/ai-mentor.skill)                        | [`AI-MENTOR-PROMPT.md`](2.1-Find-Your-Way/AI-MENTOR-PROMPT.md)           | Moving from Interest to Career, fundamentals vs. trends, research, roadmaps, and connecting with real mentors.                  |
+| [**`3.1-Make-An-Online-Present/`**](3.1-Make-An-Online-Present/README.md)           | **Lesson 3.1** | [`content-creating.skill`](3.1-Make-An-Online-Present/content-creating.skill) | [`CONTENT-CREATING-PROMPT.md`](3.1-Make-An-Online-Present/CONTENT-CREATING-PROMPT.md)  | Turning learning into content, platform-specific strategies (LinkedIn, X, Instagram), video scripting, and habit building.      |
+| [**`4.1-Make-Money-With-Your-Skills/`**](4.1-Make-Money-With-Your-Skills/README.md) | **Lesson 4.1** | [`make-money.skill`](4.1-Make-Money-With-Your-Skills/make-money.skill)        | [`MAKE-MONEY-PROMPT.md`](4.1-Make-Money-With-Your-Skills/MAKE-MONEY-PROMPT.md)         | Freelancing vs. business, customer acquisition, portfolio building, client trust, and step-by-step monetization.                |
+| [**`5.1-Preparation-For-Job-Hunting/`**](5.1-Preparation-For-Job-Hunting/README.md) | **Lesson 5.1** | [`job-hunting.skill`](5.1-Preparation-For-Job-Hunting/job-hunting.skill)      | [`JOB-HUNTING-PROMPT.md`](5.1-Preparation-For-Job-Hunting/JOB-HUNTING-PROMPT.md)       | Role analysis, skill prioritization (`Must → Should → Later`), soft skills, interview prep, and job readiness scoring.      |
 
 ---
 
@@ -258,14 +252,14 @@ flowchart TD
    - Rename any `.skill` file (e.g., `ai-mentor.skill`) to `.zip` and extract its contents (`SKILL.md` and `references/`).
    - Upload the extracted markdown files (`SKILL.md`, `references/*.md`) directly into your project's **Project Knowledge**.
 3. **Set Project Instructions**:
-   - Open the module's [`PROMPT.md`](01-Find-Your-Way/PROMPT.md) file from this repository.
+   - Open the module's [`AI-MENTOR-PROMPT.md`](2.1-Find-Your-Way/AI-MENTOR-PROMPT.md) file from this repository.
    - Copy the entire prompt block and paste it into **Set Project Instructions**.
 4. **Interact**: Start a chat inside your project. Claude will now operate strictly under the skill guidelines, scoring ideas honestly out of 10, preventing hallucinations, and prioritizing fundamentals!
 
 ### Method 2: Using in Any Claude Chat (Free / Direct Use)
 
 1. Open a new chat at [Claude.ai](https://claude.ai).
-2. Open the [`PROMPT.md`](01-Find-Your-Way/PROMPT.md) file of the desired module.
+2. Open the [`AI-MENTOR-PROMPT.md`](2.1-Find-Your-Way/AI-MENTOR-PROMPT.md) file of the desired module.
 3. Copy the system prompt and paste it into your chat as your initial instruction.
 4. Provide your topic, skill, portfolio, or career goal!
 
@@ -274,7 +268,7 @@ flowchart TD
 1. Unzip the `.skill` file into your local skills directory:
    ```bash
    # Example: Extracting ai-mentor.skill
-   tar -xf 01-Find-Your-Way/ai-mentor.skill
+   tar -xf 2.1-Find-Your-Way/ai-mentor.skill
    ```
 2. Antigravity will automatically discover the `SKILL.md` and make it callable as a skill.
 
@@ -320,5 +314,5 @@ If you found a resource that helped you, identified an outdated recommendation, 
 
 ## 📄 License & Credits
 
-Created with ❤️ by **[R.K. SkillForge](https://github.com/RK-SkillForge)**.
-Dedicated to helping learners transition from **Interest → Passion → Career**.
+* [ ] Created with ❤️ by **[R.K. SkillForge](https://github.com/RK-SkillForge)**.
+  Dedicated to helping learners transition from **Interest → Passion → Career**.

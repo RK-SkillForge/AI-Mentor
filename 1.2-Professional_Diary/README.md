@@ -33,7 +33,7 @@ The [`Professional_Diary`](file:///e:/R.K.%20SkillForge/Projects/Courses/free/AI
 While the course modules provide strategic career frameworks, industry research techniques, and AI-assisted workflows, this folder delivers the physical and digital tools necessary to translate that knowledge into unwavering daily discipline.
 
 ```
-📁 Professional_Diary/
+📁 1.2-Professional_Diary/
 ├── 📄 Professional_Diary.pdf    # Print-ready & digital tablet journaling edition (3.9 MB)
 ├── 📝 Professional_Diary.docx   # Fully customizable Microsoft Word source template (102 KB)
 └── 📘 README.md                 # System manual, structural analysis & practical user guide
@@ -43,9 +43,9 @@ While the course modules provide strategic career frameworks, industry research 
 
 | File Name | Format | Size | Target Use Case & Capabilities |
 | :--- | :---: | :---: | :--- |
-| [**`Professional_Diary.pdf`**](file:///e:/R.K.%20SkillForge/Projects/Courses/free/AI%20Mentor/Professional_Diary/Professional_Diary.pdf) | Vector PDF | ~3.9 MB | **High-Fidelity Printable & Tablet Journal:**<br>• Ready for double-sided spiral printing (A4/Letter) or digital stylus apps (GoodNotes, Notability, Samsung Notes, Remarkable).<br>• Preserves clean typography, checkmark boxes, lined reflection areas, and structured rating grids. |
-| [**`Professional_Diary.docx`**](file:///e:/R.K.%20SkillForge/Projects/Courses/free/AI%20Mentor/Professional_Diary/Professional_Diary.docx) | Word Document | ~102 KB | **Fully Editable Source Document:**<br>• Built in standard DOCX with structured paragraph templates and styling.<br>• Allows learners to customize pillar ratings, adjust the 30/5 focus split, add personalized company/project trackers, or translate into other languages.<br>• Compatible with Microsoft Word, Google Docs, LibreOffice, and WPS Office. |
-| [**`README.md`**](file:///e:/R.K.%20SkillForge/Projects/Courses/free/AI%20Mentor/Professional_Diary/README.md) | Markdown | — | **System Architecture & Operational Manual:**<br>• Explains the psychological and behavioral science behind the diary.<br>• Details how to conduct morning planning, Pomodoro focus cycles, and evening self-scoring audits. |
+| [**`Professional_Diary.pdf`**](Professional_Diary.pdf) | Vector PDF | ~3.9 MB | **High-Fidelity Printable & Tablet Journal:**<br>• Ready for double-sided spiral printing (A4/Letter) or digital stylus apps (GoodNotes, Notability, Samsung Notes, Remarkable).<br>• Preserves clean typography, checkmark boxes, lined reflection areas, and structured rating grids. |
+| [**`Professional_Diary.docx`**](Professional_Diary.docx) | Word Document | ~102 KB | **Fully Editable Source Document:**<br>• Built in standard DOCX with structured paragraph templates and styling.<br>• Allows learners to customize pillar ratings, adjust the 30/5 focus split, add personalized company/project trackers, or translate into other languages.<br>• Compatible with Microsoft Word, Google Docs, LibreOffice, and WPS Office. |
+| [**`README.md`**](README.md) | Markdown | — | **System Architecture & Operational Manual:**<br>• Explains the psychological and behavioral science behind the diary.<br>• Details how to conduct morning planning, Pomodoro focus cycles, and evening self-scoring audits. |
 
 ---
 
@@ -219,11 +219,11 @@ flowchart TD
     end
 
     subgraph Course["🚀 AI Mentor Modules"]
-        M0["00-Introduction: Overcome Overwhelm & FOMO"]
-        M1["01-Find-Your-Way: Research & Roadmap Creation"]
-        M2["02-Make-An-Online-Present: Daily Content Engine"]
-        M3["03-Make-Money-With-Your-Skills: Monetization & Outreach"]
-        M4["04-Preparation-For-Job-Hunting: Interview & Skills Prep"]
+        M0["1.1-Introduction: Overcome Overwhelm & FOMO"]
+        M1["2.1-Find-Your-Way: Research & Roadmap Creation"]
+        M2["3.1-Make-An-Online-Present: Daily Content Engine"]
+        M3["4.1-Make-Money-With-Your-Skills: Monetization & Outreach"]
+        M4["5.1-Preparation-For-Job-Hunting: Interview & Skills Prep"]
     end
 
     D1 --> M0
@@ -233,11 +233,11 @@ flowchart TD
     D4 --> M4
 ```
 
-* **Module 00 (Introduction):** Use the diary’s Unbreakable Pillars to inoculate yourself against shiny object syndrome, FOMO, and information overload.
-* **Module 01 (Find Your Way):** Transcribe your personalized skill roadmap into the Yearly, 6-Month, Monthly, and Weekly goal sections.
-* **Module 02 (Make an Online Presence):** Use the daily checklist to track consistency in writing posts on LinkedIn or X, scripting videos, and engaging with peers.
-* **Module 03 (Make Money With Your Skills):** Log client outreach targets, freelance proposals sent, and analyze client feedback in the "Problems & Solutions" block.
-* **Module 04 (Preparation for Job Hunting):** Track portfolio project milestones, resume updates, mock interview scores, and professional networking calls.
+* **Module 1.1 (Introduction):** Use the diary’s Unbreakable Pillars to inoculate yourself against shiny object syndrome, FOMO, and information overload.
+* **Module 2.1 (Find Your Way):** Transcribe your personalized skill roadmap into the Yearly, 6-Month, Monthly, and Weekly goal sections.
+* **Module 3.1 (Make an Online Presence):** Use the daily checklist to track consistency in writing posts on LinkedIn or X, scripting videos, and engaging with peers.
+* **Module 4.1 (Make Money With Your Skills):** Log client outreach targets, freelance proposals sent, and analyze client feedback in the "Problems & Solutions" block.
+* **Module 5.1 (Preparation for Job Hunting):** Track portfolio project milestones, resume updates, mock interview scores, and professional networking calls.
 
 ---
 
@@ -246,18 +246,18 @@ flowchart TD
 Choose the workflow that best fits your lifestyle:
 
 ### Workflow A: Physical Spiral Binder (Recommended for Deep Focus)
-1. Open [`Professional_Diary.pdf`](file:///e:/R.K.%20SkillForge/Projects/Courses/free/AI%20Mentor/Professional_Diary/Professional_Diary.pdf).
+1. Open [`Professional_Diary.pdf`](Professional_Diary.pdf).
 2. Print double-sided on quality A4 or US Letter paper.
 3. Bind with a spiral coil or place in a 3-ring binder on your desk.
 4. Keep a dedicated pen beside it. Filling it out physically in the morning and evening disconnects you from screens and heightens intentionality.
 
 ### Workflow B: Digital Tablet & Stylus (iPad / Android Tablet)
-1. Import [`Professional_Diary.pdf`](file:///e:/R.K.%20SkillForge/Projects/Courses/free/AI%20Mentor/Professional_Diary/Professional_Diary.pdf) into **GoodNotes**, **Notability**, **Samsung Notes**, or **Xodo**.
+1. Import [`Professional_Diary.pdf`](Professional_Diary.pdf) into **GoodNotes**, **Notability**, **Samsung Notes**, or **Xodo**.
 2. Handwrite your goals, checkmarks, scores, and reflections with your stylus.
 3. Benefit from searchable handwriting, cloud backup, and zero paper waste.
 
 ### Workflow C: Desktop / Word Customization
-1. Open [`Professional_Diary.docx`](file:///e:/R.K.%20SkillForge/Projects/Courses/free/AI%20Mentor/Professional_Diary/Professional_Diary.docx) in **Microsoft Word** or **Google Docs**.
+1. Open [`Professional_Diary.docx`](Professional_Diary.docx) in **Microsoft Word** or **Google Docs**.
 2. Customize the scoring fields to match your specific industry priorities (e.g., adding GitHub commit streaks, LeetCode ratings, or sales outreach counts).
 3. Type your entries daily or save your customized layout as a personalized PDF for printing.
 
@@ -267,9 +267,17 @@ Choose the workflow that best fits your lifestyle:
 
 Access the diary files directly:
 
-* 📄 **Printable Vector PDF:** [**`Professional_Diary.pdf`**](file:///e:/R.K.%20SkillForge/Projects/Courses/free/AI%20Mentor/Professional_Diary/Professional_Diary.pdf) *(3.9 MB)*
-* 📝 **Customizable Word Document:** [**`Professional_Diary.docx`**](file:///e:/R.K.%20SkillForge/Projects/Courses/free/AI%20Mentor/Professional_Diary/Professional_Diary.docx) *(102 KB)*
-* 🏠 **Return to AI Mentor Curriculum:** [**Master Course README**](file:///e:/R.K.%20SkillForge/Projects/Courses/free/AI%20Mentor/README.md)
+* 📄 **Printable Vector PDF:** [**`Professional_Diary.pdf`**](Professional_Diary.pdf) *(3.9 MB)*
+* 📝 **Customizable Word Document:** [**`Professional_Diary.docx`**](Professional_Diary.docx) *(102 KB)*
+* 🏠 **Return to AI Mentor Curriculum:** [**Master Course README**](../README.md)
+
+---
+
+## 🧭 Navigation
+
+- ⬅️ **Previous Module:** [**`1.1-Introduction` (Lesson 1.1 — What is AI Mentor?)**](../1.1-Introduction/README.md)
+- ➡️ **Next Module:** [**`2.1-Find-Your-Way` (Lesson 2.1 — Find Your Way)**](../2.1-Find-Your-Way/README.md)
+- 🏠 **Master Curriculum:** [**Root README**](../README.md)
 
 ---
 
