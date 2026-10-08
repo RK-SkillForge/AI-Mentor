@@ -125,7 +125,7 @@ AI can explain concepts and provide structured roadmaps, but it **cannot replace
 > The most powerful approach is neither pure AI nor isolated learning. It is uniting them:
 >
 > $$
-> \mathbf{AI\ (Exploration\ \&\ Speed) + Fundamentals + Real\ Mentors\ (Wisdom\ \&\ Judgment) \longrightarrow Career\ Mastery}
+> \textbf{AI (Exploration and Speed)} + \textbf{Fundamentals} + \textbf{Real Mentors (Wisdom and Judgment)} \longrightarrow \textbf{Career Mastery}
 > $$
 
 ---
@@ -210,7 +210,7 @@ Keep improving.
 ```
 
 $$
-\mathbf{Interest \longrightarrow Passion \longrightarrow Career}
+\mathbf{Interest} \longrightarrow \mathbf{Passion} \longrightarrow \mathbf{Career}
 $$
 
 ---
