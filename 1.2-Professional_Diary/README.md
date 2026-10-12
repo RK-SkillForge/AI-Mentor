@@ -28,13 +28,13 @@
 
 ## 📂 Folder Overview & Asset Analysis
 
-The [`Professional_Diary`](file:///e:/R.K.%20SkillForge/Projects/Courses/free/AI%20Mentor/Professional_Diary) directory serves as the personal accountability engine and daily execution companion for the entire **AI Mentor** curriculum. 
+The [`1.2-Professional_Diary`](./) directory serves as the personal accountability engine and daily execution companion for the entire **AI Mentor** curriculum. 
 
 While the course modules provide strategic career frameworks, industry research techniques, and AI-assisted workflows, this folder delivers the physical and digital tools necessary to translate that knowledge into unwavering daily discipline.
 
 ```
 📁 1.2-Professional_Diary/
-├── 📄 Professional_Diary.pdf    # Print-ready & digital tablet journaling edition (3.9 MB)
+├── 📄 Professional_Diary.pdf    # Print-ready & digital tablet journaling edition (4.1 MB)
 ├── 📝 Professional_Diary.docx   # Fully customizable Microsoft Word source template (102 KB)
 └── 📘 README.md                 # System manual, structural analysis & practical user guide
 ```
@@ -43,7 +43,7 @@ While the course modules provide strategic career frameworks, industry research 
 
 | File Name | Format | Size | Target Use Case & Capabilities |
 | :--- | :---: | :---: | :--- |
-| [**`Professional_Diary.pdf`**](Professional_Diary.pdf) | Vector PDF | ~3.9 MB | **High-Fidelity Printable & Tablet Journal:**<br>• Ready for double-sided spiral printing (A4/Letter) or digital stylus apps (GoodNotes, Notability, Samsung Notes, Remarkable).<br>• Preserves clean typography, checkmark boxes, lined reflection areas, and structured rating grids. |
+| [**`Professional_Diary.pdf`**](Professional_Diary.pdf) | Vector PDF | ~4.1 MB | **High-Fidelity Printable & Tablet Journal:**<br>• Ready for double-sided spiral printing (A4/Letter) or digital stylus apps (GoodNotes, Notability, Samsung Notes, Remarkable).<br>• Preserves clean typography, checkmark boxes, lined reflection areas, and structured rating grids. |
 | [**`Professional_Diary.docx`**](Professional_Diary.docx) | Word Document | ~102 KB | **Fully Editable Source Document:**<br>• Built in standard DOCX with structured paragraph templates and styling.<br>• Allows learners to customize pillar ratings, adjust the 30/5 focus split, add personalized company/project trackers, or translate into other languages.<br>• Compatible with Microsoft Word, Google Docs, LibreOffice, and WPS Office. |
 | [**`README.md`**](README.md) | Markdown | — | **System Architecture & Operational Manual:**<br>• Explains the psychological and behavioral science behind the diary.<br>• Details how to conduct morning planning, Pomodoro focus cycles, and evening self-scoring audits. |
 
@@ -267,7 +267,7 @@ Choose the workflow that best fits your lifestyle:
 
 Access the diary files directly:
 
-* 📄 **Printable Vector PDF:** [**`Professional_Diary.pdf`**](Professional_Diary.pdf) *(3.9 MB)*
+* 📄 **Printable Vector PDF:** [**`Professional_Diary.pdf`**](Professional_Diary.pdf) *(4.1 MB)*
 * 📝 **Customizable Word Document:** [**`Professional_Diary.docx`**](Professional_Diary.docx) *(102 KB)*
 * 🏠 **Return to AI Mentor Curriculum:** [**Master Course README**](../README.md)
 
