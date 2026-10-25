@@ -312,6 +312,35 @@ If you found a resource that helped you, identified an outdated recommendation, 
 
 ---
 
+## 💖 Support R.K. SkillForge
+
+> **Help us make education accessible to everyone!**  
+> R.K. SkillForge is dedicated to bridging the gap between learning and real-world success. Your support helps us maintain our platform, cover infrastructure costs, develop learning resources, and provide free educational opportunities to learners.
+
+### 💳 How to Support Us
+
+1. Visit our website: **[R.K. SkillForge](https://rkskillforge.com/)**
+2. Click the **"Support Us"** button in the navigation bar.
+3. Choose your contribution amount — **₹49, ₹99, ₹199, ₹499, ₹999, ₹1,999**, or enter a custom amount.
+4. Complete your payment using the available **Razorpay** payment options.
+
+*Every contribution, big or small, helps us continue our mission of making learning more accessible.*
+
+### 🚀 Your Support Makes a Difference
+
+- 📚 **Free Learning Resources**: Helps us create free courses, tutorials, and curriculum guides.
+- 💻 **Platform & Infrastructure**: Supports website hosting, server infrastructure, and active maintenance.
+- 🎯 **Career Preparation**: Helps learners develop practical skills and prepare for real-world career opportunities.
+- 🌱 **Open Community**: Fuels the growth of an open, accessible, and community-driven learning ecosystem.
+
+### ❤️ Ready to Support Our Mission?
+
+👉 **[Support R.K. SkillForge](https://rkskillforge.com/)**
+
+*Thank you for being part of our journey!*
+
+---
+
 ## 📄 License & Credits
 
 * [ ] Created with ❤️ by **[R.K. SkillForge](https://github.com/RK-SkillForge)**.
